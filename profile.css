@@ -10,7 +10,7 @@
 .home{
     width:100%;
     min-height: 100vh;
-    background-image: white;
+    background-color: aquamarine;
     display:block;
     overflow: hidden;
     position: relative;
@@ -121,16 +121,16 @@ span{
 }
 
 .home .picture{
-    width:500px;
-    height:500px;
+    width:400px;
+    height:400px;
     float: right;
-    margin-top:7%;
-    margin-right: 13%;
+    margin-top:15%;
+    margin-right: 30%;
     display: flex;
 
 }
 .picture:hover{
-    transform: scale(1.05,1.05);
+    opacity: 0.9;
 }
 .nav_bar .a2{
     text-decoration: none;
