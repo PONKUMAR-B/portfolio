@@ -1,0 +1,11 @@
+/* for mobiles */
+
+body .head{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+body .home{
+    width: 100%;
+}
